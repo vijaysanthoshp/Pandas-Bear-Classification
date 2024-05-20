@@ -21,7 +21,7 @@ This is a Flutter application that uses TensorFlow Lite to classify images of pa
 
 1. **Clone the repository:**
 
-    `git clone [https://github.com/vijaysanthoshp/Pandas-Bear-Classification.git]`
+    `git clone https://github.com/vijaysanthoshp/Pandas-Bear-Classification.git`
    
 2. Navigate to the project directory:
    
