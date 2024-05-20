@@ -20,15 +20,19 @@ This is a Flutter application that uses TensorFlow Lite to classify images of pa
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/vijaysanthoshp/Pandas-Bear-Classification.git
-2. Navigate to the project directory:
+    bash
+    git clone https://github.com/vijaysanthoshp/Pandas-Bear-Classification.git
+3. Navigate to the project directory:
+   bash
    cd Pandas-Bear-Classification
-3. Install the required dependencies:
+5. Install the required dependencies:
+   bash
    flutter pub get
-4. Ensure you have the required assets:
+7. Ensure you have the required assets:
    assets/model.tflite - The TensorFlow Lite model file.
    assets/labels.txt - The labels file for the model.   
-5. Run the app on a connected device or emulator:
+8. Run the app on a connected device or emulator:
+   bash
    flutter run
    
 ## Dependencies
@@ -40,8 +44,8 @@ The following dependencies are used in this project:
 - `cupertino_icons`: For iOS style icons
 
 ## Project Structure
-lib/main.dart: The main file containing the UI and functionality for image classification.
-assets/: Directory containing the TensorFlow Lite model, labels file, and placeholder image.
+- lib/main.dart: The main file containing the UI and functionality for image classification.
+- assets/: Directory containing the TensorFlow Lite model, labels file, and placeholder image.
 
 ## License
 
