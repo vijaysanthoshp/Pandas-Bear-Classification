@@ -1,6 +1,8 @@
 # Pandas and Bears Classification
 
+
 This is a Flutter application that uses TensorFlow Lite to classify images of pandas and bears. The app allows users to either take a photo using their device's camera or select an image from their photo gallery. Once an image is selected, the app will analyze it and provide a classification along with the confidence level.
+
 
 ## Features
 
@@ -11,11 +13,13 @@ This is a Flutter application that uses TensorFlow Lite to classify images of pa
 - Reset button to clear the selected image
 - About section with information about the app
 
+
 ## Requirements
 
 - Flutter SDK : >=3.4.0 <4.0.0
 - Android Studio 
 - A compatible device or emulator
+
 
 ## Installation
 
@@ -23,7 +27,7 @@ This is a Flutter application that uses TensorFlow Lite to classify images of pa
 
     `git clone https://github.com/vijaysanthoshp/Pandas-Bear-Classification.git`
    
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
    
      `cd clubproject`
     
@@ -42,7 +46,9 @@ This is a Flutter application that uses TensorFlow Lite to classify images of pa
    `flutter run`
    
    
+
 ## Dependencies
+
 
 The following dependencies are used in this project:
 - `flutter`: Flutter SDK
@@ -50,13 +56,17 @@ The following dependencies are used in this project:
 - `image_picker`: For selecting images from the camera or gallery
 - `cupertino_icons`: For iOS style icons
 
+
 ## Project Structure
+
 - lib/main.dart: The main file containing the UI and functionality for image classification.
 - assets/: Directory containing the TensorFlow Lite model, labels file, and placeholder image.
+
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
 ## Acknowledgments
 
@@ -65,9 +75,12 @@ This project is licensed under the [MIT License](LICENSE).
 - [image_picker](https://pub.dev/packages/image_picker)
 - [flutter_tflite](https://pub.dev/packages/flutter_tflite)
 
+
+
 ## Contributing
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.  
+
 
 ## Usage
 
@@ -106,10 +119,13 @@ Contributions to this project are welcome. If you find any issues or have sugges
 9. **Exiting the App**
 
    To exit the app, simply follow your device's standard procedure for closing apps (e.g., pressing the back button or swiping the app away from the recent apps list).
+
+
    
 ## VIDEO
 
 https://github.com/vijaysanthoshp/Pandas-Bear-Classification/assets/143861101/afb1f493-0daf-44a3-85b4-3d99ab22b9fc
+
 
 ## Contact
 For any inquiries or issues, please contact [vijaysanthoshpandiyaraj@gmail.com].
