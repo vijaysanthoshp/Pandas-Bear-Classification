@@ -103,7 +103,8 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 A demonstration video of the app can be found 
 
-https://github.com/vijaysanthoshp/Pandas-Bear-Classification/assets/143861101/d07ceea9-8331-4c23-a9e7-3071bd062089
+https://github.com/vijaysanthoshp/Pandas-Bear-Classification/assets/143861101/afb1f493-0daf-44a3-85b4-3d99ab22b9fc
+
 
 
 ## Contact
