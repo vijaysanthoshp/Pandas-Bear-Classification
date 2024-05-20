@@ -1,16 +1,14 @@
-# pandasbearclassification
+# Pandas-Bear-Classification
 
-A new Flutter project.
+A new Flutter Tflite project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A Flutter application that uses TensorFlow Lite to classify images of pandas and bears. This app allows users to either take a new photo or select an existing image from their gallery for classification. The app then analyzes the image and provides a classification result along with the confidence level.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features
+Image Classification: Accurately classify images of pandas and bears using a pre-trained TensorFlow Lite model.
+Image Selection: Seamlessly pick an image from the gallery or capture a new photo using the camera.
+Reset Functionality: Easily reset the selected image and classification results.
+About Section: Gain insights into the app's purpose and functionality through an informative 'About' section.
+Enhanced User Interface: Enjoy a visually appealing UI with gradient backgrounds, tooltips, and a footer.
